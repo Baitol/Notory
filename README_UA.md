@@ -4,9 +4,15 @@
 
 ---
 
-## 🌐 Мови документації
+## 🌐 Документація та посібники
 - 🇺🇦 **[Повний посібник зі встановлення українською (SETUP_GUIDE_UA.md)](SETUP_GUIDE_UA.md)**
 - 🇬🇧 **[English Setup Guide (SETUP_GUIDE.md)](SETUP_GUIDE.md)** | **[English README](README.md)**
+- 📚 **[Технічна документація архітектури та кодової бази (папка docs/)](docs/README.md)**:
+  - 🏛️ [Загальна архітектура системи (docs/ARCHITECTURE.md)](docs/ARCHITECTURE.md)
+  - 📂 [Детальний розбір кожного файлу проєкту (docs/FILES_DESCRIPTION.md)](docs/FILES_DESCRIPTION.md)
+  - 🗄️ [Схема бази даних SQLite та Drift (docs/DATABASE_SCHEMA.md)](docs/DATABASE_SCHEMA.md)
+  - 🔄 [Управління станом та потік даних Riverpod (docs/DATA_FLOW_AND_STATE.md)](docs/DATA_FLOW_AND_STATE.md)
+  - 🗺️ [Геолокація GPS та мапи (docs/MAPS_AND_GEOLOCATION.md)](docs/MAPS_AND_GEOLOCATION.md)
 
 ---
 

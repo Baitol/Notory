@@ -4,9 +4,15 @@ A modern, offline-first mobile and desktop application for field inspection repo
 
 ---
 
-## 🌐 Documentation Languages / Мови документації
+## 🌐 Documentation & Guides / Документація проєкту
 - 🇬🇧 **[English Setup Guide (SETUP_GUIDE.md)](SETUP_GUIDE.md)**
 - 🇺🇦 **[Український посібник зі встановлення (SETUP_GUIDE_UA.md)](SETUP_GUIDE_UA.md)** | **[Опис проєкту українською (README_UA.md)](README_UA.md)**
+- 📚 **[Detailed Architecture & Codebase Documentation (docs/)](docs/README.md)**:
+  - 🏛️ [System Architecture (docs/ARCHITECTURE.md)](docs/ARCHITECTURE.md)
+  - 📂 [Detailed File-by-File Breakdown (docs/FILES_DESCRIPTION.md)](docs/FILES_DESCRIPTION.md)
+  - 🗄️ [SQLite Database & Drift Schema (docs/DATABASE_SCHEMA.md)](docs/DATABASE_SCHEMA.md)
+  - 🔄 [State Management & Data Flow (docs/DATA_FLOW_AND_STATE.md)](docs/DATA_FLOW_AND_STATE.md)
+  - 🗺️ [Maps & Geolocation Guide (docs/MAPS_AND_GEOLOCATION.md)](docs/MAPS_AND_GEOLOCATION.md)
 
 ---
 
