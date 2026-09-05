@@ -5,14 +5,14 @@ A modern, offline-first mobile and desktop application for field inspection repo
 ---
 
 ## 🌐 Documentation & Guides / Документація проєкту
-- 🇬🇧 **[English Setup Guide (SETUP_GUIDE.md)](SETUP_GUIDE.md)**
-- 🇺🇦 **[Український посібник зі встановлення (SETUP_GUIDE_UA.md)](SETUP_GUIDE_UA.md)** | **[Опис проєкту українською (README_UA.md)](README_UA.md)**
-- 📚 **[Detailed Architecture & Codebase Documentation (docs/)](docs/README.md)**:
-  - 🏛️ [System Architecture (docs/ARCHITECTURE.md)](docs/ARCHITECTURE.md)
-  - 📂 [Detailed File-by-File Breakdown (docs/FILES_DESCRIPTION.md)](docs/FILES_DESCRIPTION.md)
-  - 🗄️ [SQLite Database & Drift Schema (docs/DATABASE_SCHEMA.md)](docs/DATABASE_SCHEMA.md)
-  - 🔄 [State Management & Data Flow (docs/DATA_FLOW_AND_STATE.md)](docs/DATA_FLOW_AND_STATE.md)
-  - 🗺️ [Maps & Geolocation Guide (docs/MAPS_AND_GEOLOCATION.md)](docs/MAPS_AND_GEOLOCATION.md)
+- 🇬🇧 **[English Setup Guide (SETUP_GUIDE.md)](SETUP_GUIDE.md)** | **[English Technical Documentation (docs/en/)](docs/en/README.md)**
+- 🇺🇦 **[Український посібник зі встановлення (SETUP_GUIDE_UA.md)](SETUP_GUIDE_UA.md)** | **[Українська технічна документація (docs/)](docs/README.md)**
+- 📚 **Architecture & Codebase Modules**:
+  - 🏛️ [System Architecture](docs/en/ARCHITECTURE.md) *(UA: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md))*
+  - 📂 [Detailed File-by-File Breakdown](docs/en/FILES_DESCRIPTION.md) *(UA: [docs/FILES_DESCRIPTION.md](docs/FILES_DESCRIPTION.md))*
+  - 🗄️ [SQLite Database & Drift Schema](docs/en/DATABASE_SCHEMA.md) *(UA: [docs/DATABASE_SCHEMA.md](docs/DATABASE_SCHEMA.md))*
+  - 🔄 [State Management & Data Flow](docs/en/DATA_FLOW_AND_STATE.md) *(UA: [docs/DATA_FLOW_AND_STATE.md](docs/DATA_FLOW_AND_STATE.md))*
+  - 🗺️ [Maps & Geolocation Guide](docs/en/MAPS_AND_GEOLOCATION.md) *(UA: [docs/MAPS_AND_GEOLOCATION.md](docs/MAPS_AND_GEOLOCATION.md))*
 
 ---
 

@@ -4,15 +4,21 @@
 
 ---
 
+## 🌐 Мова документації / Language
+- 🇺🇦 **[Українська версія (Поточна)](README.md)**
+- 🇬🇧 **[English Documentation](en/README.md)**
+
+---
+
 ## 🧭 Структура документації
 
-| Документ | Про що розповідає |
-|---|---|
-| **[ARCHITECTURE.md](ARCHITECTURE.md)** | Загальна багаторівнева архітектура системи, життєвий цикл додатку, стек технологій та діаграма взаємодії шарів. |
-| **[FILES_DESCRIPTION.md](FILES_DESCRIPTION.md)** | **Детальний построковий та пофайловий опис**: за що відповідає кожен файл у проєкті, які класи, змінні та методи містить і як вони працюють. |
-| **[DATA_FLOW_AND_STATE.md](DATA_FLOW_AND_STATE.md)** | Управління станом через Riverpod, потік даних від інтерфейсу користувача (UI) до локальної бази даних SQLite. |
-| **[DATABASE_SCHEMA.md](DATABASE_SCHEMA.md)** | Структура локальної бази даних Drift (SQLite), опис таблиць, зв'язок Many-to-Many, каскадне видалення та утилізація сирітських записів. |
-| **[MAPS_AND_GEOLOCATION.md](MAPS_AND_GEOLOCATION.md)** | Робота з модулем GPS, обробка дозволів, кешування координат, відображення мапи OpenStreetMap/ArcGIS, побудова маршруту та підрахунок відстані. |
+| Документ (UA) | English Version | Про що розповідає |
+|---|---|---|
+| **[ARCHITECTURE.md](ARCHITECTURE.md)** | **[en/ARCHITECTURE.md](en/ARCHITECTURE.md)** | Загальна багаторівнева архітектура системи, життєвий цикл додатку, стек технологій та діаграма взаємодії шарів. |
+| **[FILES_DESCRIPTION.md](FILES_DESCRIPTION.md)** | **[en/FILES_DESCRIPTION.md](en/FILES_DESCRIPTION.md)** | **Детальний построковий та пофайловий опис**: за що відповідає кожен файл у проєкті, які класи, змінні та методи містить і як вони працюють. |
+| **[DATA_FLOW_AND_STATE.md](DATA_FLOW_AND_STATE.md)** | **[en/DATA_FLOW_AND_STATE.md](en/DATA_FLOW_AND_STATE.md)** | Управління станом через Riverpod, потік даних від інтерфейсу користувача (UI) до локальної бази даних SQLite. |
+| **[DATABASE_SCHEMA.md](DATABASE_SCHEMA.md)** | **[en/DATABASE_SCHEMA.md](en/DATABASE_SCHEMA.md)** | Структура локальної бази даних Drift (SQLite), опис таблиць, зв'язок Many-to-Many, каскадне видалення та утилізація сирітських записів. |
+| **[MAPS_AND_GEOLOCATION.md](MAPS_AND_GEOLOCATION.md)** | **[en/MAPS_AND_GEOLOCATION.md](en/MAPS_AND_GEOLOCATION.md)** | Робота з модулем GPS, обробка дозволів, кешування координат, відображення мапи OpenStreetMap/ArcGIS, побудова маршруту та підрахунок відстані. |
 
 ---
 
