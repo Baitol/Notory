@@ -4,6 +4,12 @@ A modern, offline-first mobile and desktop application for field inspection repo
 
 ---
 
+## 🌐 Documentation Languages / Мови документації
+- 🇬🇧 **[English Setup Guide (SETUP_GUIDE.md)](SETUP_GUIDE.md)**
+- 🇺🇦 **[Український посібник зі встановлення (SETUP_GUIDE_UA.md)](SETUP_GUIDE_UA.md)** | **[Опис проєкту українською (README_UA.md)](README_UA.md)**
+
+---
+
 ## 🚀 Features
 
 - **Field Notes with Geotagging**: Create notes automatically tagged with GPS coordinates, timestamps, and details.
@@ -28,7 +34,8 @@ A modern, offline-first mobile and desktop application for field inspection repo
 
 For detailed, step-by-step setup guides designed even for **completely empty computers** (freshly unboxed Mac or clean Windows PC without any developer tools):
 
-👉 **[Read the Full Setup & Installation Guide (SETUP_GUIDE.md)](SETUP_GUIDE.md)**
+👉 **[Read the Full English Setup Guide (SETUP_GUIDE.md)](SETUP_GUIDE.md)**  
+👉 **[Читати повну інструкцію українською мовою (SETUP_GUIDE_UA.md)](SETUP_GUIDE_UA.md)**
 
 ### Quick Start (If Flutter & SDKs are already installed)
 
